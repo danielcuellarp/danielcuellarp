@@ -1,3 +1,13 @@
-- :wave: Hi, I’m @danielcuellarp from Colombia.
-- :cookie: I’m currently learning web development... #NodeJs #JavaScript
-- :briefcase: I work as a desktop software developer in vb6 and firebird database
+💻 Software and web deveploment
+ Actual Work: 
+  PHP (KumbiaPhp)
+  Python (Django)
+
+ Experience:
+  Visual Basic 6
+  Firebird Database
+
+ Learn: 
+  Javascript (NodeJs)
+
+🇨🇴 Colombia
